@@ -1,2 +1,4 @@
 # intuitive-meals
 Helping parents and children create meals with ease using this intuitive and simple system.
+
+I've been a stay at home parent for 12 years and consistently cooked meals each night for my family.  At first meal planning, shopping, and prep stressed me out but after years of practice I was able to establish a system that worked for me.  However, it was still labor intensive.  Recently I realized that it could all be so much easier!  Now I keep a pantry stocked with my family's favorite foods and use the Intuitive Meals concept to create healthy, delicious, improvised meals each night.  Very little thought or mental effort goes into it. Dinner just flows intuitively. 
