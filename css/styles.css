@@ -6,7 +6,7 @@ header {
     background-image: url("/banner.jpg");
     background-size:cover;
     background-repeat:no-repeat;
-    height: 40em;
+    height: 43em;
     position: relative;
     border-style: solid;
     border-color: darkgreen;
@@ -30,5 +30,12 @@ h1 {
 }
 
 .start {
-   
+   float:right;
+   margin: 8px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.smallbanner {
+    background-image: url("/banner-copy.jpg");
+    height:11em;
 }
